@@ -1,0 +1,21 @@
+#별표가 출력되도록 print()을 작성해 보자.
+print("*********")
+print(" ******* ")
+print("  *****  ")
+print("   ***   ")
+print("    *    ")
+print("   ***   ")
+print("  *****  ")
+print(" ******* ")
+print("*********")
+
+
+print("    *    ")
+print("   ***   ")
+print("  *****  ")
+print(" ******* ")
+print("*********")
+print(" ******* ")
+print("  *****  ")
+print("   ***   ")
+print("    *    ")
